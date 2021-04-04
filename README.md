@@ -1,5 +1,4 @@
-# Acess_Control_RFID
-automatic door lock system using rfid module and arduino
+![acess_control_RFID](https://socialify.git.ci/honeybhardwaj/acess_control_RFID/image?description=1&forks=1&issues=1&language=1&owner=1&stargazers=1&theme=Light)
 
 # INTRODUCTION
 The project that we have made is an RFID door lock at an affordable price. The goal of this project is to create a more convenient way to unlock your door than the traditional key. In the key’s place is an RFID tag that will unlock the door by proximity. However, the improvements of this RFID door lock must outweigh the complications of implementation.
