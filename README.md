@@ -1,5 +1,5 @@
 ![acess_control_RFID](https://socialify.git.ci/honeybhardwaj/acess_control_RFID/image?description=1&forks=1&issues=1&language=1&owner=1&stargazers=1&theme=Light)
-
+![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)![forthebadge](https://forthebadge.com/images/badges/open-source.svg)
 # INTRODUCTION
 The project that we have made is an RFID door lock at an affordable price. The goal of this project is to create a more convenient way to unlock your door than the traditional key. In the key’s place is an RFID tag that will unlock the door by proximity. However, the improvements of this RFID door lock must outweigh the complications of implementation.
 The design consists of two components. The first component is the actual door lock that must be installed in the doorframe. This will be controlled by a magnetic lock and will need to be powered. The second component is a relatively small module that you can install anywhere near the door. This module is responsible for RFID sensing.
@@ -28,16 +28,14 @@ The position of a servo motor is decided by an electrical pulse and its circuitr
 # IR Sensor
 An infrared sensor is an electronic device, that emits in order to sense some aspects of the surroundings. An IR sensor can measure the heat of an object as well as detects the motion. These types of sensors measure only infrared radiation, rather than emitting it that is called a passive IR sensor. Usually, in the infrared spectrum, all the objects radiate some form of thermal radiations. These types of radiations are invisible to our eyes, that can be detected by an infrared sensor. The emitter is simply an IR LED (Light Emitting Diode) and the detector is simply an IR photodiode which is sensitive to IR light of the same wavelength as that emitted by the IR LED.
 When IR light falls on the photodiode, The resistances and these output voltages, change in proportion to the magnitude of the IR light received.
+<h1 align=center> Project Admin ❤️ </h1>
+<p align="center">
+  <a href="https://github.com/honeybhardwaj"><img src="https://user-images.githubusercontent.com/51120790/112728813-11dfcc80-8f4f-11eb-8398-5864bd390546.png" width=150px height=150px /></a> 
+    
+<p align="center">
+  <img src="https://img.shields.io/badge/honeybhardwaj%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>  <img src="https://img.shields.io/badge/honeybhardwaj%20-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=black"/> <img src="https://img.shields.io/badge/honney_bhardwaj%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>                                                                                      
 
-# references
-[1] https://www.google.co.in/
+<h1 align=center>Happy Coding 👨‍💻 </h1>
 
-[2] https://howtomechatronics.com/tutorials/arduino/rfid-works-make-arduino-based-rfid-door-lock/
+## please don't forget to give a star ⭐ if you liked it.
 
-[3] https://en.wikipedia.org/wiki/Radio-frequency_identification
-
-[4] https://en.wikipedia.org/wiki/Arduino
-
-[5] https://opensource.com/resources/what-arduino
-
-[6] https://www.arduino.cc
